@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+.screenshot{
+	max-width: 460px;
+}
+.descriptions{
+	max-width: 500px;
+}
+.app{
+	display: flex;
+}
+.title{
+	color: white;
+	background-color: #33bebe;
+}
+.screenshot{
+	margin-right: 22px ;
+}
